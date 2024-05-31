@@ -6,3 +6,5 @@ Our presentation recording can be accessed [here](https://drive.google.com/file/
 Yesterday, we presented our project to Classiq, and discussed ways to improve our project and possibly create larger implementations of our algorithm. Currently, our primary concern is the high circuit depth of the current version of our algorithm, producing significantly noisy data. We will be looking into different approaches to minimize the circuit depth of our algorithm as well as potentially running it on quantum hardware that can accomodate higher circuit depths.
 
 Since these efforts go beyond the scope of QRISE, we will be making a new repository where we will create a new Jupyter notebook for a more optimized version of our algorithm. We will be continuing to work with Classiq as we improve our algorithm, but this repository will remain in its current state as a record of our efforts specifically during QRISE.
+
+The new repository for the continuation of this project can be found [here](https://github.com/adam-godel/glued-trees).
